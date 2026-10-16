@@ -1,0 +1,19 @@
+.gitignore
+  s_e45c8ff377ec8b::t_96bd4d4e47e6d4 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.50-trip",
+  "base_commit_sha": "0976555dcb95ed91f7a782e00f741fd1d37247e7",
+  "prompts": {},
+  "sessions": {
+    "s_e45c8ff377ec8b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a142a5-6ee0-7f10-84b3-fe8962b32177",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangjunfeng <zhangjunfeng@trip.com>"
+    }
+  }
+}
