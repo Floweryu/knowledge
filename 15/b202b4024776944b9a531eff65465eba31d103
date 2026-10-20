@@ -1,0 +1,33 @@
+技术拾记/项目整理/campaign-ai/05-context-engineering.md
+  s_762b540357f817::t_50e48373118eae 1-88
+技术拾记/项目整理/campaign-ai/03-human-in-the-loop-and-checkpoint.md
+  s_762b540357f817::t_50e48373118eae 1-86
+技术拾记/项目整理/campaign-ai/01-multi-agent-orchestration.md
+  s_762b540357f817::t_50e48373118eae 1-90
+技术拾记/项目整理/campaign-ai/07-resume-and-project-presentation.md
+  s_762b540357f817::t_50e48373118eae 1-132
+技术拾记/项目整理/campaign-ai/04-streaming-and-run-recovery.md
+  s_762b540357f817::t_50e48373118eae 1-85
+技术拾记/项目整理/campaign-ai/02-semantic-contracts-and-tools.md
+  s_762b540357f817::t_50e48373118eae 1-86
+技术拾记/项目整理/campaign-ai/README.md
+  s_762b540357f817::t_50e48373118eae 1-57
+技术拾记/项目整理/campaign-ai/06-session-evaluation.md
+  s_762b540357f817::t_50e48373118eae 1-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.50-trip",
+  "base_commit_sha": "15b202b4024776944b9a531eff65465eba31d103",
+  "prompts": {},
+  "sessions": {
+    "s_762b540357f817": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15727-918d-71f1-aecb-7c053be3d85d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "zhangjunfeng <zhangjunfeng@trip.com>"
+    }
+  }
+}
