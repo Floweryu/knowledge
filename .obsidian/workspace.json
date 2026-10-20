@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "b990aaf50abf3256",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba69d89de989a859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8027fe4334caeea9",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "ctrip/queryFlashSaleGroupInfos.txt"
+              },
+              "icon": "lucide-file",
+              "title": "queryFlashSaleGroupInfos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "031837b0e7290bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "777cdb51e06ad91c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85539455feeb22f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "29f2594db04e1be5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2d5b9ca3619d89fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1c005c048917974",
+    "type": "split",
+    "children": [
+      {
+        "id": "64f2bb4789e1248c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b0535e624b940c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ctrip/备忘录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "1ad47315005d24a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ctrip/备忘录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "d1645f2890339341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "10b9ac3e5862de54",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cac37c95da60b464",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ctrip/备忘录.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "6f3e5b77cb6c114a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "60f0e33a2dc4f675",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "open-vscode:VS Code": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "vscode-editor:新建代码文件": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "8027fe4334caeea9",
+  "lastOpenFiles": [
+    "ctrip/备忘录.md",
+    "ctrip/queryFlashSaleGroupInfos.txt",
+    "ctrip/queryFlashSaleProductInfos.txt",
+    "ctrip/压测.md",
+    "2026-10-20.md",
+    "README.md",
+    "技术拾记/项目整理/spec-hub/01-项目功能与技术实现分析.md",
+    "技术拾记/项目整理/rag/pgc-rag-service-技术分析.md",
+    "技术拾记/项目整理/rag/Code-Graph-RAG-知识整理.md",
+    "技术拾记/项目整理/rag",
+    "技术拾记/项目整理/spec-hub/README.md",
+    "技术拾记/项目整理/spec-hub/03-技术点详解.md",
+    "技术拾记/项目整理/spec-hub/02-简历项目描述.md",
+    "技术拾记/项目整理/spec-hub",
+    "ctrip/queryFlashSaleGroupInfos 1.txt",
+    "技术拾记/项目整理/campaign-ai/README.md",
+    "技术拾记/项目整理/campaign-ai/06-session-evaluation.md",
+    "技术拾记/项目整理/campaign-ai/01-multi-agent-orchestration.md",
+    "未命名.base",
+    "ctrip"
+  ]
+}
